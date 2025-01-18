@@ -146,7 +146,7 @@ const TeacherForm = () => {
                     style={{ width: "200px", fontSize: "20px" }}
                   >
                     <FontAwesomeIcon icon={faUserCircle} className="me-3" />
-                    Faculty Portal
+                    Faculty Portal   
                   </button>
                 </div>
 
